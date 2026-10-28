@@ -1,2 +1,7 @@
 /build/
 *.dex
+*.apk
+*.ap_
+*.class
+.gradle/
+.idea/
